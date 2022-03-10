@@ -13,7 +13,6 @@ public class Example2 {
             l_list.add("Pink");
             l_list.add("Yellow");
 
-            // print the list
             System.out.println("The linked list: " + l_list);
         }
     }
